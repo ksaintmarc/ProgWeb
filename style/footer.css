@@ -1,0 +1,31 @@
+footer{
+    position: fixed;
+    top: auto;
+    bottom:0;
+    height: 50px;
+    width: 100%;
+    margin-left: 0%;
+    background-color:none;
+}
+footer a img{
+    margin: 5px;
+    height: 40px;
+}
+
+langues {
+    position: fixed;
+    right: 10px;
+    bottom: 15px;
+    
+}
+langues a{
+    text-decoration: none;
+    color: black;
+}
+langues a:nth-child(1){
+    background-color: rgb(182, 144, 144);
+}
+langues a:nth-child(2){
+    background-color:rgb(157, 157, 190);
+    
+}
